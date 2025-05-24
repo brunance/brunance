@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Bruno França</h1>
-<h3 align="center">Um programador apaixonado por Swift e criação de jogos 🥰</h3>
+<h3 align="center">Um programador apaixonado por Swift 🥰</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
